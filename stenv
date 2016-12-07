@@ -1,0 +1,2 @@
+. /var/www/envs/stars/bin/activate
+. /var/www/envs/stars/bin/postactivate
